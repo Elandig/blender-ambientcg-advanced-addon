@@ -1,11 +1,11 @@
 schema_version = "1.0.0"
-id = "ambientcg_material_importer"
-version = "1.4.0"
-name = "AmbientCG Material Importer"
-tagline = "One-click material creation from AmbientCG"
-maintainer = "Nino Filiu <filiunino@gmail.com>"
+id = "ambientcg_material_importer_advanced"
+version = "1.5.0"
+name = "AmbientCG Material Importer Advanced"
+tagline = "One-click material creation from AmbientCG with with advanced features"
+maintainer = "Ruslan Norberg <elan@sestudio.org>"
 type = "add-on"
-website = "https://github.com/ninofiliu/blender-ambientcg-addon"
+website = "https://github.com/Elandig/blender-ambientcg-addon"
 tags = ["Import-Export", "Material"]
 blender_version_min = "4.2.0"
 license = ["SPDX:GPL-3.0-or-later"]
